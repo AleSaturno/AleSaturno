@@ -11,8 +11,10 @@ Gracias por visitar mi perfil. Estoy emocionado por las oportunidades que el fut
 
 ¡Hablemos y trabajemos en algo asombroso!
 
-<br/>📫 ¡Conéctate!
-📧 Email: alesaturno64@gmail.com
+📫 
+¡Conéctate!
+📧 
+Email: alesaturno64@gmail.com
 
 Cordialmente,
 Alejandro Saturno
