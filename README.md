@@ -12,6 +12,7 @@ Gracias por visitar mi perfil. Estoy emocionado por las oportunidades que el fut
 ¡Hablemos y trabajemos en algo asombroso!
 
 📫 ¡Conéctate!
+
 📧 Email: alesaturno64@gmail.com
 
 Cordialmente,
