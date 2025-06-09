@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Saludos! Soy un programador radicado en la vibrante ciudad de Córdoba, Argentina. Mi pasión por la tecnología y el desarrollo de software me impulsa a buscar constantemente nuevos desafíos y oportunidades para aprender y crecer.
 
 Estoy decidido a destacar en el mundo de la programación y ansío participar en diversos proyectos que me permitan demostrar mis habilidades y creatividad. Siempre disfruto colaborar en equipo, creando soluciones innovadoras y funcionales.
