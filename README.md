@@ -1,4 +1,4 @@
-💫 Sobre mí
+# 💫 Sobre mí
 
 ¡Hola! Soy **Alejandro Saturno**, desarrollador Front-End de Córdoba, Argentina. Apasionado por el diseño de interfaces atractivas, accesibles y funcionales, disfruto convertir ideas en experiencias web reales y bien construidas.
 
@@ -30,13 +30,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AleSaturno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AleSaturno&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alesaturno&show_icons=true&theme=react&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesaturno&layout=compact&theme=react&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AleSaturno&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Links
+
+- 🔗 [Mi portfolio](https://tusitio.com) <!-- Cambia esto por el enlace real si tenés uno -->
+- 🧠 [Proyectos destacados](https://github.com/alesaturno?tab=repositories)
+- 💌 Contacto directo: alesaturno64@gmail.com
+
