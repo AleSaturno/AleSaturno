@@ -1,34 +1,34 @@
-# 💫 Sobre mi:
-¡Saludos! Soy un programador radicado en la vibrante ciudad de Córdoba, Argentina. Mi pasión por la tecnología y el desarrollo de software me impulsa a buscar constantemente nuevos desafíos y oportunidades para aprender y crecer.
+💫 Sobre mí
 
-Estoy decidido a destacar en el mundo de la programación y ansío participar en diversos proyectos que me permitan demostrar mis habilidades y creatividad. Siempre disfruto colaborar en equipo, creando soluciones innovadoras y funcionales.
+¡Hola! Soy **Alejandro Saturno**, desarrollador Front-End de Córdoba, Argentina. Apasionado por el diseño de interfaces atractivas, accesibles y funcionales, disfruto convertir ideas en experiencias web reales y bien construidas.
 
-Mi experiencia abarca el desarrollo de aplicaciones web, diseño de interfaces atractivas y backend sólido. Estoy dispuesto a expandir mi conocimiento y enfrentar nuevos retos tecnológicos.
+🎨 Me especializo en:
+- **Desarrollo Front-End** con HTML, CSS, JavaScript y React
+- **Diseño de interfaces modernas** con enfoque en usabilidad y experiencia de usuario (UX/UI)
+- Uso de herramientas como **Bootstrap**, **SASS**, **Tailwind CSS**, y otras tecnologías del ecosistema web
 
-A través de GitHub, compartiré mis proyectos y contribuciones con la comunidad mientras aprendo de otros desarrolladores talentosos. Si buscas un programador entusiasta, comprometido y ávido de conocimiento, ¡estaré encantado de ser parte de tu equipo!
+🚀 Estoy en constante aprendizaje, explorando nuevas tecnologías y buenas prácticas para escribir código limpio, mantenible y escalable. Me gusta trabajar en equipo, compartir conocimientos y colaborar en proyectos que representen un verdadero desafío.
 
-Gracias por visitar mi perfil. Estoy emocionado por las oportunidades que el futuro me depara y listo para hacer realidad proyectos increíbles juntos.
+📁 En este perfil encontrarás algunos de mis proyectos personales, donde aplico lo que aprendo y pruebo nuevas ideas. También comparto avances de estudio y herramientas útiles para otros desarrolladores.
 
-¡Hablemos y trabajemos en algo asombroso!
+---
 
-📫 
-¡Conéctate!
-📧 
-Email: alesaturno64@gmail.com
+📬 **Contacto**  
+📧 alesaturno64@gmail.com
 
-Cordialmente,
-Alejandro Saturno
+---
 
+## 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-saturno-1b5967206/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AleSaturno&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AleSaturno&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleSaturno&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AleSaturno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
