@@ -42,7 +42,6 @@
 
 ## 🌐 Links
 
-- 🔗 [Mi portfolio](https://tusitio.com) <!-- Cambia esto por el enlace real si tenés uno -->
-- 🧠 [Proyectos destacados](https://github.com/alesaturno?tab=repositories)
+- 🔗 [Mi portfolio](https://portfolio-six-jade-45.vercel.app/) <!-- Cambia esto por el enlace real si tenés uno -->
 - 💌 Contacto directo: alesaturno64@gmail.com
 
